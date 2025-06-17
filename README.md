@@ -23,15 +23,7 @@ A modular medical conversation system that processes Moroccan Darija speech inpu
    ```bash
    pip install -r requirements.txt
    ```
-
-3. **Copy your existing TTS and STT models:**
-   - Copy your `TTS_Model_v2.py` content into the created file
-   - Copy your `STT_Model.py` content into the created file
-
-4. **Add the module code:**
-   - Copy the provided code into each corresponding Python file
-
-5. **Run the application:**
+3. **Run the application:**
    ```bash
    python main_conversation_app.py
    ```
@@ -74,6 +66,3 @@ See `usage_example.py` for comprehensive examples of how to use the system.
 3. Add proper error handling
 4. Update documentation as needed
 
-## License
-
-[Add your license information here]
