@@ -1,0 +1,25 @@
+# Core ML and AI libraries
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.21.0
+
+# Arabic processing
+shakkala
+
+# Real-time communication
+fastrtc
+
+# HTTP requests (if needed for future extensions)
+requests>=2.28.0
+
+# Additional utilities
+typing-extensions>=4.0.0
+
+# Optional: For better performance
+accelerate>=0.20.0
+optimum>=1.8.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
